@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "carnet": 1234
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "carnet": 1235
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "carnet": 1235
+  }
+]

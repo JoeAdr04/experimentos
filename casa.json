@@ -1,0 +1,55 @@
+[
+  {
+    "direccion": "calle falsa",
+    "numero": 123,
+    "personas": [
+      {
+        "id": 1,
+        "nombre": "asdf",
+        "carnet": 123
+      },
+      {
+        "id": 2,
+        "nombre": "asdfg",
+        "carnet": 1234
+      }
+    ]
+  },
+  {
+    "direccion": "calle falsa",
+    "numero": 123,
+    "personas": [
+      {
+        "id": 1,
+        "nombre": "asdf",
+        "carnet": 123
+      },
+      {
+        "id": 2,
+        "nombre": "asdfg",
+        "carnet": 1234
+      }
+    ]
+  },
+  {
+    "direccion": "calle falsa",
+    "numero": 123,
+    "personas": [
+      {
+        "id": 1,
+        "nombre": "asdf",
+        "carnet": 123
+      },
+      {
+        "id": 2,
+        "nombre": "asdfg",
+        "carnet": 1234
+      }
+    ]
+  },
+  {
+    "direccion": "asdf",
+    "numero": 1234,
+    "personas": []
+  }
+]
